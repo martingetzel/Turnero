@@ -1,0 +1,17 @@
+----------------- INSTRUCCIONES ----------------------------
+**** CÓMO USAR ****
+
+- Abrir con el navegador "turnero.html"
+- Hacer click sobre el número para aumentarlo
+- Mover el mouse al borde izquierdo de la pantalla para desplegar el menú de opciones.
+
+**** PARA CAMBIAR EL FONDO ****
+
+- Poner en la carpeta "images" el nuevo fondo, con nombre "fondo.png"
+- El tamaño de la imagen es 874x614 px
+
+**** PARA PONER UN BANNER ABAJO DEL NÚMERO ****
+
+- Poner en la carpeta "images" el banner, con nombre "banner.jpg" o "banner.png"
+- El tamaño no importa, elijan el tamaño dependiendo de qué tanto se vea cuando lo colocan en la pantalla.
+- Si no necesitan poner ningún banner, borran el banner de la carpeta images.
