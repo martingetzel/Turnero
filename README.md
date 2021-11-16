@@ -1,7 +1,7 @@
 # Sistema de conteo de turnos
 
-Esta es una página simple desarrollada para un local de venta de shawarmas de la Ciudad de Resistencia.
-Está desarrollado para ser visualizado en una pantalla de 24'' que es mostrada a los clientes en el local.
+Esta es una aplicación web liviana para un local de venta de shawarma de la Ciudad de Resistencia.
+Está desarrollada para ser visualizada en una pantalla de 24'' que es mostrada a los clientes en el local.
 Además incluye espacio para agregar un banner publicitario en el que pueden publicar ofertas.
 
 Haciendo click sobre el número pasamos al siguiente turno. Desplazando el mouse hacia el borde izquierdo, se despliega un menú "oculto" para poder poner el contador a cero, descontar y establecer un valor inicial diferente a cero.
